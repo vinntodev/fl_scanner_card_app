@@ -1,4 +1,5 @@
 # Flutter Scanner Card App
+![image_app](https://github.com/vinntodev/fl_scanner_card_app/blob/613708e33ff8e35c4529d265caeac63cc4714b34/img/ui.png)
 
 Aplikasi Flutter untuk memindai (scan) kartu atau dokumen menggunakan Google ML Kit Document Scanner, menyimpan hasil sebagai gambar, memberi nama dan kategori, lalu menampilkannya dalam daftar/grid. Data metadata disimpan lokal menggunakan SQLite (sqflite).
 
